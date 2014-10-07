@@ -1,6 +1,6 @@
 {
   "name": "object.pluck",
-  "description": "Like pluck from underscore / lo-dash, returns an object composed of specified properties, with values unmodified from those of the original object.",
+  "description": "Like pluck from underscore / lo-dash, but returns an object composed of specified properties, with values unmodified from those of the original object.",
   "version": "0.1.0",
   "homepage": "https://github.com/jonschlinkert/object.pluck",
   "author": {
