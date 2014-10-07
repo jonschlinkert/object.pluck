@@ -1,0 +1,64 @@
+{
+  "name": "object.pluck",
+  "description": "Like pluck from underscore / lo-dash, returns an object composed of specified properties, with values unmodified from those of the original object.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/jonschlinkert/object.pluck",
+  "author": {
+    "name": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jonschlinkert/object.pluck.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jonschlinkert/object.pluck/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/jonschlinkert/object.pluck/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "^4.0.4",
+    "verb": ">= 0.2.6"
+  },
+  "keywords": [
+    "check",
+    "is",
+    "is-object",
+    "isobject",
+    "javascript",
+    "key",
+    "keys",
+    "object",
+    "pluck",
+    "plain",
+    "prop",
+    "properties",
+    "property",
+    "props",
+    "type",
+    "type-of",
+    "typeof",
+    "util",
+    "utilities",
+    "utility",
+    "utils",
+    "value",
+    "values"
+  ],
+  "dependencies": {
+    "get-value": "^0.1.2",
+    "object.map": "^0.1.0"
+  }
+}
